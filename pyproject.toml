@@ -1,0 +1,7 @@
+[project]
+name = "adhkar-py-salah-post-tasbih"
+version = "1.0.0"
+description = "Post-Fard Salah Tasbih (33x3 + Tamam Al-Mi'ah) State Counter (مسبحة الأذكار المشروعة بعد الصلوات المفروضة)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
